@@ -101,3 +101,8 @@ Python 3.x, numpy, scipy, pandas, tifffile, scikit-image, opencv-python, matplot
 **Eldeen, S.**, Guerrero Ramirez, M., Lanterman, B., Chang, P., & Botvinick, E. (2025).  
 *Virtual fluorescent labeling of engineered vascular networks with embedded tracer particles.*  
 Acta Biomaterialia. In progress.
+
+## License
+
+This project is released under the MIT License. See the `LICENSE` file for details.
+
