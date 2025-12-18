@@ -15,7 +15,7 @@ The intended use is longitudinal imaging workflows where fixation and staining w
 ### Graphical abstract
 ![Graphical Abstract](assets/Graphical_abstract.jpeg)
 
-### Model and pipeline schematic
+### Preprocessing and Model Architecture
 ![Architecture](assets/Architecture.jpeg)
 
 ---
