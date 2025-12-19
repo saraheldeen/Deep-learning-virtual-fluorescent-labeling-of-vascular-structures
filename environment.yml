@@ -1,0 +1,19 @@
+name: tf-image-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - scipy
+  - pandas
+  - tifffile
+  - scikit-image
+  - opencv
+  - matplotlib
+  - h5py
+  - tqdm
+  - pip
+  - pip:
+      - tensorflow
+      - tensorflow-addons
